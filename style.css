@@ -149,14 +149,12 @@ button:hover{
     }
 
     
-.luxury{
-    border-bottom-right-radius: 10px;
-    border-top-right-radius: 0;
-    border-bottom-left-radius: 10px;
+    .luxury{
+        border-bottom-right-radius: 10px;
+        border-top-right-radius: 0;
+        border-bottom-left-radius: 10px;
 
-    background:  hsl(179, 100%, 13%);
-
-}
+    }
 
     .container{
         display: block;          
