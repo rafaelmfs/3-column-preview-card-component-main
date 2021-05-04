@@ -16,8 +16,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/3columnpreviewcardcomponentmain-bPrZlq_MT
+- Live Site URL: https://rafaelmfs.github.io/3-column-preview-card-component-main/
 
 ## Meu processo
 
