@@ -13,11 +13,6 @@ Os usuários devem ser capazes de:
 - Ver o layout ideal, dependendo do tamanho da tela do dispositivo
 - Ver estados de foco para elementos interativos
 
-### Screenshot
-
-![image-20210504090709498](C:\Users\Rafael\AppData\Roaming\Typora\typora-user-images\image-20210504090709498.png)
-
-
 
 ### Links
 
