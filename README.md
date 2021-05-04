@@ -15,7 +15,7 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![image-20210503163542753](C:\Users\Rafael\Desktop\Rafael\desenvolvedorWeb\Projetos\3-column-preview-card-component-main\image-20210503163542753.png)
+![image-20210504090709498](C:\Users\Rafael\AppData\Roaming\Typora\typora-user-images\image-20210504090709498.png)
 
 
 
