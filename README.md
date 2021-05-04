@@ -15,14 +15,14 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](![image-20210503163542753](https://user-images.githubusercontent.com/80429145/117000512-909af880-acb7-11eb-9146-c3389437920c.png))
+![image-20210503163542753](C:\Users\Rafael\Desktop\Rafael\desenvolvedorWeb\Projetos\3-column-preview-card-component-main\image-20210503163542753.png)
 
 
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/3columnpreviewcardcomponentmain-bPrZlq_MT
-- Live Site URL: https://rafaelmfs.github.io/3-column-preview-card-component-main/
+- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## Meu processo
 
