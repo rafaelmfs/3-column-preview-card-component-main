@@ -15,7 +15,7 @@ Os usuários devem ser capazes de:
 
 ### Screenshot
 
-![](C:\Users\Rafael\AppData\Roaming\Typora\typora-user-images\image-20210503163542753.png)
+![](![image-20210503163542753](https://user-images.githubusercontent.com/80429145/117000512-909af880-acb7-11eb-9146-c3389437920c.png))
 
 
 
